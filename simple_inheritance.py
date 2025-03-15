@@ -1,3 +1,4 @@
+#multiple inheritance 
 #Person parent class 
 class Person:
     def person_data(self, name, age):
