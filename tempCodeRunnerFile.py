@@ -1,0 +1,1 @@
+print(acc1._amount)
