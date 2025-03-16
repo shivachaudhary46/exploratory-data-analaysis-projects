@@ -11,4 +11,4 @@ class Account:
 
 acc1 = Account('shiva', 800, 100000)
 print(acc1.owner)
-#this will give error beecausee it is private propertiees
+#this will give error beecausee it is private properties
