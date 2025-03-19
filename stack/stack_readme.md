@@ -10,7 +10,7 @@ A stack is a linear data structure that stores itmes in a Last-In/First-Out (LIF
 - ***push(a)*** – Inserts the element ‘a’ at the top of the stack 
 - ***pop()*** – Deletes the topmost element of the stack
 
-#### Implementation using List:
+#### Implementations of Stack:
 
 - list
 - Collections.deque
